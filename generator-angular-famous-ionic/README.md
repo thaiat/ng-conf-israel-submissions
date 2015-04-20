@@ -34,7 +34,7 @@ Yo angular-famous-ionic !!!!
 
 ### Session Abstract
 
-Avi is one of the top 10 contributor of [yeoman](https://github.com/yeoman/generator/graphs/contributors).   
+Avi is one of the top 10 contributor of [yeoman](https://github.com/yeoman/generator/graphs/contributors) (Check #10!!!)   
 He will explain how yeoman works and how it can help implement your own style guide.   
 He will then demonstrate his own generator [angular-famous-ionic](http://github.com/thaiat/angular-famous-ionic) including this amazing set of functionnalities:
 
